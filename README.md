@@ -6,6 +6,7 @@ and get:
 -	Command line attributes: 1) to load external file that list courses_id   2)  weeks int value to search for recording  behind current date.
 
 
+License: <a href="https://github.com/zerausolrac/PyCollab/blob/master/LICENSE"> MIT License</a>
 
 
 ## 1 Instalation
